@@ -1,7 +1,7 @@
 name: Lee-Brown
 favicon: null
-layout_spectrum: 0.8358686547726393
-typography_spectrum: 0.6155726066790521
+layout_spectrum: 1
+typography_spectrum: 0.33817
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9582842600066215
-  lightness: 0.0022921606432646513
-  saturation: 0.5310478643514216
-  rhythmicContrast: 0.5865142296534032
+    - '#000000'
+    - '#85331b'
+    - '#f3803f'
+    - '#b3a78d'
+    - '#6f5f46'
+  brandStrength: 1
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
