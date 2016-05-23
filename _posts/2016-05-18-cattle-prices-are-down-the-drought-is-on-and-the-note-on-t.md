@@ -6,17 +6,19 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Cattle prices are down, the drought is on, and the note on the ranch is up. '
-datePublished: '2016-05-18T17:12:29.216Z'
-dateModified: '2016-05-18T17:12:16.566Z'
+datePublished: '2016-05-23T21:15:04.702Z'
+dateModified: '2016-05-23T21:14:58.132Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-18-cattle-prices-are-down-the-drought-is-on-and-the-note-on-t.md
 authors: []
 publisher: null
-sourcePath: _posts/2016-05-18-cattle-prices-are-down-the-drought-is-on-and-the-note-on-t.md
 starred: true
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca5fbf90-b805-4bf9-ad26-730a77509218.jpg)
+
 Cattle prices are down, the drought is on, and the note on the ranch is up. 
 
 The Two-E Ranch is everything that Cass Elkins ever thought she wanted. Now that she has it, keeping it is the only thing she can't do. She needs a rain or a lot of cash. If the devil knocked on her door, she'd make a deal. After all, there are worse things. 
