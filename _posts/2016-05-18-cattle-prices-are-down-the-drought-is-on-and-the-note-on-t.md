@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Cattle prices are down, the drought is on, and the note on the ranch is up. '
-datePublished: '2016-05-23T21:26:33.950Z'
-dateModified: '2016-05-23T21:19:42.744Z'
+datePublished: '2016-05-23T21:27:49.668Z'
+dateModified: '2016-05-23T21:27:45.384Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-18-cattle-prices-are-down-the-drought-is-on-and-the-note-on-t.md
